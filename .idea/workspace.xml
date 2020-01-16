@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b091711-eaee-43db-9e4e-9f50078bf83d" name="Default Changelist" comment="" />
+    <list default="true" id="1b091711-eaee-43db-9e4e-9f50078bf83d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WKgvr46dFavD31lQvP0FFv1K0h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -114,10 +122,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="519" y="58" width="847" height="677" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1578904801584" />
-    <state x="115" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578998411549">
+    <state x="362" y="180" width="898" height="484" key="FileChooserDialogImpl" timestamp="1579176232990">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="115" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1578998411549" />
+    <state x="362" y="180" width="898" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1579176232990" />
     <state width="1320" height="160" key="GridCell.Tab.0.bottom" timestamp="1579173299373">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -142,6 +150,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="787" y="117" width="442" height="559" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1366.741@0.27.1366.741" timestamp="1579086969175" />
+    <state x="-499" y="27" width="1356" height="741" key="new project wizard" timestamp="1579176167881">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="-499" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1579176167881" />
     <state x="550" y="21" width="672" height="678" key="search.everywhere.popup" timestamp="1579087120439">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
